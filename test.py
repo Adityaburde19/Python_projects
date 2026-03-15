@@ -18,8 +18,8 @@ print("Please select operation -\n"
 
 sel = int(input("Select operation (1-4): "))
 
-n1 = int(input("Enter first number: "))
-n2 = int(input("Enter second number: "))
+n1 = int(input("Enter first number parameter: "))
+n2 = int(input("Enter second number parameters: "))
 
 if sel == 1:
     print(n1, "+", n2, "=", add(n1, n2))
