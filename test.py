@@ -30,4 +30,4 @@ elif sel == 3:
 elif sel == 4:
     print(n1, "/", n2, "=", div(n1, n2))
 else:
-    print("Invalid input")
+    print("Invalid input please try")
